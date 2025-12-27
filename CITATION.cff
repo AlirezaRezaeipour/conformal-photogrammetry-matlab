@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Conformal Photogrammetry Transformation in MATLAB
+message: >
+  If you use this code in your research, please cite it as below.
+authors:
+  - family-names: Rezaeipour
+    given-names: Alireza
+version: 1.0.0
+date-released: 2025-01-01
+license: MIT
+repository-code: https://github.com/AlirezaRezaeipour/conformal-photogrammetry-matlab
